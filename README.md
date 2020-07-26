@@ -7,6 +7,6 @@ Input image:
 
 ![](heart.png)
 
-Output image:
+Output image (Enlarging factor k=3):
 
 ![](output.png)
